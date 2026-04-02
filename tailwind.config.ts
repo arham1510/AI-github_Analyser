@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        chart: {
+          excellent: "hsl(var(--chart-excellent))",
+          good: "hsl(var(--chart-good))",
+          average: "hsl(var(--chart-average))",
+          poor: "hsl(var(--chart-poor))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
